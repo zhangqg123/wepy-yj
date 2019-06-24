@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "TRTC",
+  "usingComponents": {
+    "webrtc-room": "/components/webrtc-room/webrtc-room",
+    "sketchpad": "/components/sketchpad/sketchpad"
+  }
+}
